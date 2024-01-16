@@ -41,7 +41,7 @@ main {
   font-weight: bold;
 }
 
-.header {
+/* .header {
   color: hsl(47, 93%, 52%);
 }
 
@@ -53,7 +53,7 @@ main {
   color: gray;
   font-size: 14px;
   font-weight: 300;
-}
+} */
 
 .author {
   display: flex;

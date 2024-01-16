@@ -1,0 +1,13 @@
+.header {
+  color: hsl(47, 93%, 52%);
+}
+
+.publish {
+  font-size: 12px;
+  font-weight: 500;
+}
+.paragraph {
+  color: gray;
+  font-size: 14px;
+  font-weight: 300;
+}
