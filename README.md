@@ -8,7 +8,7 @@ Thanks for checking out this front-end coding challenge.
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
 
-**To do this challenge, you need a basic understanding of HTML and CSS.**
+**This challenge is done using the basics of HTML and CSS and Angular as framework.**
 
 ## The challenge
 
@@ -24,6 +24,6 @@ Want some support on the challenge? [Join our community](https://www.frontendmen
 
 ## Deployed solution
 
-- [Netlify](https://blog-card-review-angular.netlify.app/)
+- [Blog card preview](https://blog-card-review-angular.netlify.app/)
 
 **Have fun !** 🚀
