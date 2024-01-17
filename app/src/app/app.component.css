@@ -20,7 +20,7 @@ main {
   border-radius: 1rem;
   padding: 16px 16px;
   box-shadow: 15px 10px 0px 5px black;
-  height: 500px;
+  gap: 10px;
 }
 
 .card-img {
