@@ -1,0 +1,11 @@
+.author {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  margin-top: 12px;
+  gap: 8px;
+}
+
+.profile-logo {
+  max-width: 30px;
+}
