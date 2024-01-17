@@ -17,7 +17,7 @@ main {
   text-align: start;
   max-width: 320px;
   border: 1px solid black;
-  border-radius: 2rem;
+  border-radius: 1rem;
   padding: 16px 16px;
   box-shadow: 15px 10px 0px 5px black;
 }
@@ -27,33 +27,6 @@ main {
   border-radius: 1rem;
   margin-top: 12px;
 }
-
-.learning {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  margin-top: 16px;
-  background-color: hsl(47, 88%, 63%);
-  width: 80px;
-  height: 35px;
-  border-radius: 8px;
-  font-size: 12px;
-  font-weight: bold;
-}
-
-/* .header {
-  color: hsl(47, 93%, 52%);
-}
-
-.publish {
-  font-size: 12px;
-  font-weight: 500;
-}
-.paragraph {
-  color: gray;
-  font-size: 14px;
-  font-weight: 300;
-} */
 
 .author {
   display: flex;
