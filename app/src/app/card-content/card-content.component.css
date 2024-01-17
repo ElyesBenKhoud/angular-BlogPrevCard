@@ -5,6 +5,19 @@
   font-weight: bold;
 }
 
+.learning {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 16px;
+  margin-bottom: 8px;
+  background-color: hsl(47, 88%, 63%);
+  width: 80px;
+  height: 35px;
+  border-radius: 8px;
+  font-size: 12px;
+  font-weight: bold;
+}
 .publish {
   font-size: 12px;
   font-weight: 500;
@@ -13,18 +26,4 @@
   color: gray;
   font-size: 14px;
   font-weight: 500;
-}
-
-.learning {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  margin-top: 16px;
-  margin-bottom: 16px;
-  background-color: hsl(47, 88%, 63%);
-  width: 80px;
-  height: 35px;
-  border-radius: 8px;
-  font-size: 12px;
-  font-weight: bold;
 }
