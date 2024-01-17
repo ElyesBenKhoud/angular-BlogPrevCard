@@ -37,3 +37,15 @@ main {
     box-shadow: 10px 5px 0px black;
   }
 }
+
+.attribution {
+  text-align: center;
+  position: absolute;
+  margin-left: 2.5rem;
+  margin-bottom: 2rem;
+  bottom: 0;
+}
+
+.attribution a {
+  text-decoration: none;
+}
